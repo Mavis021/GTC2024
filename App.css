@@ -45,16 +45,6 @@
   padding: 10px;
   background-color: darkgreen;
 }
-
-.sidenav,
-.mainContent {
-  justify-content: center;
-  display: flex;
-  border: 2px solid white;
-  padding: 10px;
-  background-color: darkmagenta;
-}
-
 .App-container{
   display: flex;
 }
